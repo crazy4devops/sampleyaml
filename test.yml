@@ -1,4 +1,6 @@
 ---
+ version: '0.0.1'
+ anotherProperty: 'value'
  doe: "a deer, a female deer"
  ray: "a drop of golden sun"
  pi: 3.14159
